@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3E6VXYUksJRHveCLphQ7Vt/h46yx4fYGom1sijk6k0eQbVEocv6CEciZmTVmGQcMTRW3rAOgGteNKwbS+nQFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Osman K Pastonoglu\\Desktop\\Lesson\\Cs\\NEA\\SpeezleGame.Launcher\\SpeezleGame.Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osman K Pastonoglu\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Osman K Pastonoglu\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
