@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeezleGame", "SpeezleGame.csproj", "{69155619-0E0D-4F3E-8E36-89E572AE817A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeezleGame.Launcher", "..\SpeezleGame.Launcher\SpeezleGame.Launcher.csproj", "{2CF087EB-C554-430E-A374-54E55C6D248C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69155619-0E0D-4F3E-8E36-89E572AE817A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69155619-0E0D-4F3E-8E36-89E572AE817A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69155619-0E0D-4F3E-8E36-89E572AE817A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69155619-0E0D-4F3E-8E36-89E572AE817A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF087EB-C554-430E-A374-54E55C6D248C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF087EB-C554-430E-A374-54E55C6D248C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF087EB-C554-430E-A374-54E55C6D248C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF087EB-C554-430E-A374-54E55C6D248C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33BF0C7-B121-4626-A8FD-6848375F84D6}
+	EndGlobalSection
+EndGlobal
